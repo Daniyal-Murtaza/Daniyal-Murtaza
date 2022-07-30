@@ -30,7 +30,7 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 
 ### GitHub Language Stats
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal-Murtaza&theme=great-gatsby&layout=compact)
 
 ### My Stack
 
