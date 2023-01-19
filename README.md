@@ -33,10 +33,6 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 - [Travel Website](https://github.com/Daniyal-Murtaza/Travel-website)
 - [Flying over itt](https://github.com/Daniyal-Murtaza/Flying-Over-itt)
 
-### GitHub Language Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal-Murtaza&theme=great-gatsby&layout=compact)
-
 ### My Stack
 
 #### Languages:
