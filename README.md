@@ -20,7 +20,7 @@
 
 ### **I'm a Web and Mobile development enthusiast!**
 
-Hi! My name is Daniyal and I'm a CS Junior at **Habib University**.
+Hi! My name is Daniyal and I'm a CS Rising Senior at **Habib University**.
 
 I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in game and Web development. I love movies, games, books, rpgs and everything narrative. I've been studying game development as a hobbie and have worked on Unity. I love being creative and aspiring the interesting dreams.
 
