@@ -18,11 +18,11 @@
    <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" align="center"/> 
  </p></div>
 
-### **I'm a Web and Mobile development enthusiast!**
+### **Working as a Full Stack Software Engineer!**
 
 Hi! I am Daniyal. A 2024 CS Garduate from **Habib University**.
 
-I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in game and Web development. I love movies, games, books, rpgs and everything narrative. I've been studying game development as a hobbie and have worked on Unity. I love being creative and aspiring the interesting dreams.
+I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Software Engineering. I love solving bugs.
 
 ### **If you want to see some highlights of my production so far, check:**
 
