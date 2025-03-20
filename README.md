@@ -18,9 +18,9 @@
    <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" align="center"/> 
  </p></div>
 
-### **Working as a Full Stack Software Engineer!**
+### **Working as Software Engineer!**
 
-Hi! I am Daniyal. A 2024 CS Garduate from **Habib University**.
+Hi! I am Daniyal. I have done BS Computer Sciences from **Habib University**.
 
 I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Software Engineering. I love solving bugs.
 
