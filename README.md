@@ -51,6 +51,7 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 #### Application and Data:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-51CBF2?style=flat&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
