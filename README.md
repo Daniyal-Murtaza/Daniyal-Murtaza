@@ -1,5 +1,5 @@
 # Hi, I'm Daniyal Murtaza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[<img align="left" alt="daniy | medium" width="70px" src="./user.svg" />][portfolio]
+[<img align="left" alt="daniy | medium" width="22px" src="./user.svg" />][portfolio]
 
 [<img align="left" alt="daniyal | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 
