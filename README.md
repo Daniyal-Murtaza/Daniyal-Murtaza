@@ -1,4 +1,4 @@
-# Hi, I'm Daniyal Murtaza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Daniyal M. Zaidi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [<img align="left" alt="daniy | medium" width="33px" src="./user.svg" />][portfolio]
 
 [<img align="left" alt="daniyal | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
