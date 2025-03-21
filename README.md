@@ -1,4 +1,5 @@
 # Hi, I'm Daniyal Murtaza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[<img align="left" alt="daniy | medium" width="70px" src="./user.svg" />][portfolio]
 
 [<img align="left" alt="daniyal | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 
@@ -74,6 +75,7 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
+[portfolio]: https://daniyal-murtaza.github.io/
 [linkedin]: https://www.linkedin.com/in/daniyal-murtaza-508a891b5
 [gmail]: mailto:syeddaniyalmurtaza7@gmail.com
 [dribbble]: https://dribbble.com/daniyal_murtaza
