@@ -28,7 +28,7 @@ I've always been a person that if something fascinates me then 🔎 I'd find out
 ### **If you want to see some highlights of my production so far, check:**
 
 - [My Portfolio Website](https://daniyal-murtaza.github.io/)
-- [Serve Pakistan Foundation](https://github.com/Daniyal-Murtaza/ServePakistanFoundation)
+- [Serve Foundation](https://github.com/Daniyal-Murtaza/ServeFoundation)
 - [Asteroids point zero](https://github.com/Daniyal-Murtaza/asteroids-point-zero)
 - [Goruto](https://github.com/Daniyal-Murtaza/Goruto)
 - [Ghost Buster](https://github.com/Daniyal-Murtaza/Ghost-Buster)
