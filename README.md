@@ -40,77 +40,79 @@
 
 </div>
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
 <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
 
-I'm a passionate Software Engineer with a BS in Computer Science from **Habib University**. My journey in programming is driven by curiosity and a deep desire to understand how things work. I particularly enjoy software engineering and debugging challenges.
+Results-driven Software Engineer with a BS in Computer Science from **Habib University**. Specializing in full-stack development, data engineering, and cloud solutions. Proven track record in developing scalable applications, implementing CI/CD pipelines, and optimizing system performance. Passionate about creating efficient, maintainable code and solving complex technical challenges.
 
 </div>
 
-## 💼 Featured Projects
+## 💼 Professional Experience
 
 <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
 
-Here are some highlights of my work:
+### Software Engineer
+- Developed and maintained scalable web applications using modern frameworks
+- Implemented CI/CD pipelines for automated testing and deployment
+- Optimized database performance and query execution
+- Collaborated with cross-functional teams to deliver high-quality solutions
 
-- [**Portfolio Website**](https://daniyal-murtaza.github.io/) - My personal portfolio showcasing my work
-- [**Serve Foundation**](https://github.com/Daniyal-Murtaza/ServeFoundation) - A foundation management system
-- [**Asteroids Point Zero**](https://github.com/Daniyal-Murtaza/asteroids-point-zero) - A modern take on the classic game
-- [**Goruto**](https://github.com/Daniyal-Murtaza/Goruto) - A unique project
-- [**Ghost Buster**](https://github.com/Daniyal-Murtaza/Ghost-Buster) - An exciting game project
-- [**Travel Website**](https://github.com/Daniyal-Murtaza/Travel-website) - A travel platform
-- [**Flying Over ITT**](https://github.com/Daniyal-Murtaza/Flying-Over-itt) - An innovative project
+### Data Engineer
+- Designed and implemented ETL pipelines for data processing
+- Created data models and schemas for efficient data storage
+- Developed data visualization dashboards for business insights
+- Implemented data quality checks and monitoring systems
 
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
 
-### Languages
+### Programming Languages
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="filter: brightness(1.2);"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="filter: brightness(1.2);"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/Verilog-FF0000?style=flat&logo=verilog&logoColor=white" alt="Verilog" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/VHDL-00979D?style=flat&logo=vhdl&logoColor=white" alt="VHDL" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/RISC--V-000000?style=flat&logo=risc-v&logoColor=white" alt="RISC-V" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" style="filter: brightness(1.2);"/>
 </div>
 
-### Frontend & Backend
+### Web Technologies
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" style="filter: brightness(1.2);"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" style="filter: brightness(1.2);"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="filter: brightness(1.2);"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" alt="Unity" style="filter: brightness(1.2);"/>
 </div>
 
-### Design Tools
+### Databases & Cloud
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=white" alt="Miro" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="filter: brightness(1.2);"/>
 </div>
 
-### Development Tools
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" style="filter: brightness(1.2);"/>
-</div>
-
-### Version Control
+### Tools & Technologies
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="filter: brightness(1.2);"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" style="filter: brightness(1.2);"/>
 </div>
+
+</div>
+
+## 📚 Education
+
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+
+### Habib University
+- **Bachelor of Science in Computer Science**
+- Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
+- Academic Projects: [List key projects]
 
 </div>
 
@@ -118,8 +120,12 @@ Here are some highlights of my work:
 
 <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
 
-Feel free to reach out to me through any of the platforms above. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the platforms above.
 
+</div>
+
+<div align="center" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniyal-Murtaza&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 
