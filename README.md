@@ -86,7 +86,4 @@ Feel free to reach out to me through any of the platforms above. I'm always open
 
 </div>
 
----
-<div align="center" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniyal-Murtaza&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
+
