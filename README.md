@@ -1,84 +1,72 @@
-# Hi, I'm Daniyal M. Zaidi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[<img align="left" alt="daniy | medium" width="33px" src="./user.svg" />][portfolio]
+# Hi, I'm Daniyal M. Zaidi 👋
 
-[<img align="left" alt="daniyal | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://daniyal-murtaza.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-murtaza-508a891b5)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeddaniyalmurtaza7@gmail.com)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/daniyal_murtaza)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Daniyal-Murtaza)
 
-[<img align="left" alt="daniyal.murtaza | Gmail" width="30px" src="./gmail.svg" />][gmail]
+<div align='center'>
+  <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" alt="Visitor Count"/>
+</div>
 
-[<img align="left" alt="dani | dribbble" width="30px" src="./dribbble.svg" />][dribbble]
+## 🚀 About Me
 
-[<img align="left" alt="daniy | medium" width="77px" src="./medium.svg" />][medium]
+I'm a passionate Software Engineer with a BS in Computer Science from **Habib University**. My journey in programming is driven by curiosity and a deep desire to understand how things work. I particularly enjoy software engineering and debugging challenges.
 
-<br>
-<br>
+## 💼 Featured Projects
 
-<div align='left'>
-<p align="left"> 
-   Visitor count:
-   
-   <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" align="center"/> 
- </p></div>
+Here are some highlights of my work:
 
-### **Working as Software Engineer!**
+- [**Portfolio Website**](https://daniyal-murtaza.github.io/) - My personal portfolio showcasing my work
+- [**Serve Foundation**](https://github.com/Daniyal-Murtaza/ServeFoundation) - A foundation management system
+- [**Asteroids Point Zero**](https://github.com/Daniyal-Murtaza/asteroids-point-zero) - A modern take on the classic game
+- [**Goruto**](https://github.com/Daniyal-Murtaza/Goruto) - A unique project
+- [**Ghost Buster**](https://github.com/Daniyal-Murtaza/Ghost-Buster) - An exciting game project
+- [**Travel Website**](https://github.com/Daniyal-Murtaza/Travel-website) - A travel platform
+- [**Flying Over ITT**](https://github.com/Daniyal-Murtaza/Flying-Over-itt) - An innovative project
 
-Hi! I am Daniyal. I have done BS Computer Sciences from **Habib University**.
+## 🛠️ Tech Stack
 
-I've always been a person that if something fascinates me then 🔎 I'd find out how to do it, so programming has been a perfect fit for me. I love programming in all aspects but specially, my deep interest lies in Software Engineering. I love solving bugs.
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF0000?style=for-the-badge&logo=verilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-00979D?style=for-the-badge&logo=vhdl&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=risc-v&logoColor=white)
 
-### **If you want to see some highlights of my production so far, check:**
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-- [My Portfolio Website](https://daniyal-murtaza.github.io/)
-- [Serve Foundation](https://github.com/Daniyal-Murtaza/ServeFoundation)
-- [Asteroids point zero](https://github.com/Daniyal-Murtaza/asteroids-point-zero)
-- [Goruto](https://github.com/Daniyal-Murtaza/Goruto)
-- [Ghost Buster](https://github.com/Daniyal-Murtaza/Ghost-Buster)
-- [Travel Website](https://github.com/Daniyal-Murtaza/Travel-website)
-- [Flying over itt](https://github.com/Daniyal-Murtaza/Flying-Over-itt)
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-### My Stack
+### Development Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-#### Languages:
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c++&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-green?style=flat&logo=c-sharp&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-green?style=flat&logo=VHDL&logoColor=white)
-![RISC-V](https://img.shields.io/badge/-RISC-purple?style=flat&logo=RISC&logoColor=white)
+## 📫 Get in Touch
 
-#### Application and Data:
+Feel free to reach out to me through any of the platforms above. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-51CBF2?style=flat&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
-![Tkinter](http://img.shields.io/badge/-Tkinter-yellow?style=flat&logo=Tkinter&logoColor=white)
-![Unity](http://img.shields.io/badge/-Unity-gray?style=flat&logo=Unity&logoColor=white)
-
-#### UX/UI:
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-
-#### Utilities:
-
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-#### DevOps:
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-
-[portfolio]: https://daniyal-murtaza.github.io/
-[linkedin]: https://www.linkedin.com/in/daniyal-murtaza-508a891b5
-[gmail]: mailto:syeddaniyalmurtaza7@gmail.com
-[dribbble]: https://dribbble.com/daniyal_murtaza
-[medium]: https://medium.com/@Daniyal-Murtaza
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniyal-Murtaza&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
