@@ -8,9 +8,11 @@
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/daniyal_murtaza)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Daniyal-Murtaza)
 
+<h3 align="center">Visitor Count</h3>
 <div align='center' style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border-radius: 10px; padding: 10px; margin: 10px 0;">
   <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" alt="Visitor Count"/>
 </div>
+
 
 </div>
 
