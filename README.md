@@ -1,20 +1,30 @@
 # Hi, I'm Daniyal M. Zaidi 👋
 
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://daniyal-murtaza.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-murtaza-508a891b5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeddaniyalmurtaza7@gmail.com)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/daniyal_murtaza)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Daniyal-Murtaza)
 
-<div align='center'>
+<div align='center' style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border-radius: 10px; padding: 10px; margin: 10px 0;">
   <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" alt="Visitor Count"/>
+</div>
+
 </div>
 
 ## 🚀 About Me
 
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+
 I'm a passionate Software Engineer with a BS in Computer Science from **Habib University**. My journey in programming is driven by curiosity and a deep desire to understand how things work. I particularly enjoy software engineering and debugging challenges.
 
+</div>
+
 ## 💼 Featured Projects
+
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
 
 Here are some highlights of my work:
 
@@ -26,7 +36,11 @@ Here are some highlights of my work:
 - [**Travel Website**](https://github.com/Daniyal-Murtaza/Travel-website) - A travel platform
 - [**Flying Over ITT**](https://github.com/Daniyal-Murtaza/Flying-Over-itt) - An innovative project
 
+</div>
+
 ## 🛠️ Tech Stack
+
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,11 +76,17 @@ Here are some highlights of my work:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ## 📫 Get in Touch
+
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
 
 Feel free to reach out to me through any of the platforms above. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
+</div>
+
 ---
-<div align="center">
+<div align="center" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
   <img src="https://github-readme-stats.vercel.app/api?username=Daniyal-Murtaza&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
