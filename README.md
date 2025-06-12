@@ -2,11 +2,37 @@
 
 <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://daniyal-murtaza.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-murtaza-508a891b5)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeddaniyalmurtaza7@gmail.com)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/daniyal_murtaza)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Daniyal-Murtaza)
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<a href="https://daniyal-murtaza.github.io/" style="text-decoration: none;">
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-radius: 12px; padding: 8px 16px; border: 1px solid rgba(255, 255, 255, 0.2); display: inline-flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio" style="filter: brightness(1.2);"/>
+</div>
+</a>
+
+<a href="https://www.linkedin.com/in/daniyal-murtaza-508a891b5" style="text-decoration: none;">
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-radius: 12px; padding: 8px 16px; border: 1px solid rgba(255, 255, 255, 0.2); display: inline-flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="filter: brightness(1.2);"/>
+</div>
+</a>
+
+<a href="mailto:syeddaniyalmurtaza7@gmail.com" style="text-decoration: none;">
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-radius: 12px; padding: 8px 16px; border: 1px solid rgba(255, 255, 255, 0.2); display: inline-flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="filter: brightness(1.2);"/>
+</div>
+</a>
+
+<a href="https://dribbble.com/daniyal_murtaza" style="text-decoration: none;">
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-radius: 12px; padding: 8px 16px; border: 1px solid rgba(255, 255, 255, 0.2); display: inline-flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" alt="Dribbble" style="filter: brightness(1.2);"/>
+</div>
+</a>
+
+<a href="https://medium.com/@Daniyal-Murtaza" style="text-decoration: none;">
+<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-radius: 12px; padding: 8px 16px; border: 1px solid rgba(255, 255, 255, 0.2); display: inline-flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
+<img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" style="filter: brightness(1.2);"/>
+</div>
+</a>
+</div>
 
 <div align='center' style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border-radius: 10px; padding: 10px; margin: 10px 0;">
   <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" alt="Visitor Count"/>
@@ -43,38 +69,48 @@ Here are some highlights of my work:
 <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF0000?style=for-the-badge&logo=verilog&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-00979D?style=for-the-badge&logo=vhdl&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=risc-v&logoColor=white)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Verilog-FF0000?style=flat&logo=verilog&logoColor=white" alt="Verilog" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/VHDL-00979D?style=flat&logo=vhdl&logoColor=white" alt="VHDL" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/RISC--V-000000?style=flat&logo=risc-v&logoColor=white" alt="RISC-V" style="filter: brightness(1.2);"/>
+</div>
 
 ### Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" alt="Unity" style="filter: brightness(1.2);"/>
+</div>
 
 ### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=white" alt="Miro" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" style="filter: brightness(1.2);"/>
+</div>
 
 ### Development Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" style="filter: brightness(1.2);"/>
+</div>
 
 ### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="filter: brightness(1.2);"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" style="filter: brightness(1.2);"/>
+</div>
 
 </div>
 
@@ -84,6 +120,10 @@ Here are some highlights of my work:
 
 Feel free to reach out to me through any of the platforms above. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
+</div>
+
+<div align="center" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniyal-Murtaza&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 
