@@ -6,10 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-murtaza-508a891b5)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeddaniyalmurtaza7@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Daniyal-Murtaza)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/daniyal_murtaza)
-
-![Visitor Count](https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg)
-
 </div>
 
 ---
