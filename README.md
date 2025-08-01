@@ -41,41 +41,6 @@ My tech journey spans developing full-stack platforms, automating business proce
 
 ---
 
-## 💼 Experience Snapshot
-
-### 🚀 Software Engineer  
-**Research Periodicals & Book Services** (Houston, TX) | *Apr 2025 – Present*  
-- Built a scalable e-commerce system managing 1.5M+ books using Laravel, Vue.js, SQL & AWS  
-- Integrated Elasticsearch to boost query relevance by 40%  
-- Launched AI tools: email automation & dynamic pricing system (↑ conversions by 18%)  
-
-### 🖥️ IT Intern  
-**Bank Al Habib** | *Jan 2025 – Mar 2025*  
-- Resolved 95% IT support tickets using Autodesk within SLA  
-- Hardened network security via pen-testing with Metasploit, Wireshark & Nmap  
-- Deployed firewalls, VMs, VoIP systems, and LAN devices
-
-### 💡 Associate Software Engineer  
-**Digi-Creations** | *Feb 2023 – Dec 2024*  
-- Delivered full-stack web apps using React.js, Node.js, REST APIs  
-- Built robust CI/CD pipelines & optimized system uptime (99.9% availability)  
-- Automated backend tasks, reducing manual ops by 60%
-
----
-
-## 📚 Education
-
-**M.S. Computer Science** (Online)  
-*Georgia Institute of Technology* — *Starting Spring 2026*
-
-**B.S. Computer Science & Engineering**  
-*Habib University* (Partnered with Texas A&M) — *2020–2024*  
-- IEEE Published: *Security Analysis & Threat Mitigation for React.js*  
-- Winner of Academic Excellence Award  
-- Courses: Data Structures, Computer Vision, OOP, Web Dev, Databases
-
----
-
 ## 🧪 Featured Projects
 
 - 🎨 [**Portfolio Website**](https://daniyal-murtaza.github.io/) — Clean portfolio to showcase all my work  
