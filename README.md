@@ -1,91 +1,102 @@
-# Hi, I'm Daniyal M. Zaidi 👋
+# 👨‍💻 Daniyal Murtaza
 
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://daniyal-murtaza.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-murtaza-508a891b5)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeddaniyalmurtaza7@gmail.com)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/daniyal_murtaza)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syeddaniyalmurtaza7@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Daniyal-Murtaza)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/daniyal_murtaza)
 
-<h3 align="center">Visitor Count</h3>
-<div align='center' style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border-radius: 10px; padding: 10px; margin: 10px 0;">
-  <img src="https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg" alt="Visitor Count"/>
-</div>
-
+![Visitor Count](https://profile-counter.glitch.me/Daniyal-Murtaza/count.svg)
 
 </div>
 
-## 🚀 About Me
+---
 
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+## 🧠 About Me
 
-I'm a passionate Software Engineer with a BS in Computer Science from **Habib University**. My journey in programming is driven by curiosity and a deep desire to understand how things work. I particularly enjoy software engineering and debugging challenges.
+I’m a **Software Engineer** based in Houston, TX, with practical experience in **IT Support**, **Web App Development**, and **DevOps**. I hold a **B.S. in Computer Science** from **Habib University** and will begin my **M.S. in Computer Science** at **Georgia Tech** in Spring 2026.
 
-</div>
+My tech journey spans developing full-stack platforms, automating business processes, and supporting enterprise systems. I thrive on solving problems at scale — from building secure e-commerce platforms to optimizing system uptime in financial institutions.
 
-## 💼 Featured Projects
+---
 
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+## 🔧 Tech Stack
 
-Here are some highlights of my work:
+**Languages**  
+`Python` · `JavaScript` · `SQL` · `C++` · `TypeScript` · `Verilog` · `C#`
 
-- [**Portfolio Website**](https://daniyal-murtaza.github.io/) - My personal portfolio showcasing my work
-- [**Serve Foundation**](https://github.com/Daniyal-Murtaza/ServeFoundation) - A foundation management system
-- [**Asteroids Point Zero**](https://github.com/Daniyal-Murtaza/asteroids-point-zero) - A modern take on the classic game
-- [**Goruto**](https://github.com/Daniyal-Murtaza/Goruto) - A unique project
-- [**Ghost Buster**](https://github.com/Daniyal-Murtaza/Ghost-Buster) - An exciting game project
-- [**Travel Website**](https://github.com/Daniyal-Murtaza/Travel-website) - A travel platform
-- [**Flying Over ITT**](https://github.com/Daniyal-Murtaza/Flying-Over-itt) - An innovative project
+**Frameworks / Libraries**  
+`React.js` · `Laravel` · `Node.js` · `Django` · `Bootstrap` · `Flutter` · `Unity`
 
-</div>
+**DevOps / Tools**  
+`Git` · `GitHub` · `CI/CD` · `AWS` · `GCP` · `Xdebug` · `PostgreSQL` · `MySQL` · `MariaDB`
 
-## 🛠️ Tech Stack
+**Security & Network Tools**  
+`Nmap` · `Wireshark` · `Burp Suite` · `Metasploit` · `RJ45` · `LAN` · `VoIP`
 
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+**Design & Planning**  
+`Figma` · `Miro` · `Adobe Photoshop` · `Adobe Illustrator` · `Jira`
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF0000?style=for-the-badge&logo=verilog&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-00979D?style=for-the-badge&logo=vhdl&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=risc-v&logoColor=white)
+---
 
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+## 💼 Experience Snapshot
 
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+### 🚀 Software Engineer  
+**Research Periodicals & Book Services** (Houston, TX) | *Apr 2025 – Present*  
+- Built a scalable e-commerce system managing 1.5M+ books using Laravel, Vue.js, SQL & AWS  
+- Integrated Elasticsearch to boost query relevance by 40%  
+- Launched AI tools: email automation & dynamic pricing system (↑ conversions by 18%)  
 
-### Development Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### 🖥️ IT Intern  
+**Bank Al Habib** | *Jan 2025 – Mar 2025*  
+- Resolved 95% IT support tickets using Autodesk within SLA  
+- Hardened network security via pen-testing with Metasploit, Wireshark & Nmap  
+- Deployed firewalls, VMs, VoIP systems, and LAN devices
 
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### 💡 Associate Software Engineer  
+**Digi-Creations** | *Feb 2023 – Dec 2024*  
+- Delivered full-stack web apps using React.js, Node.js, REST APIs  
+- Built robust CI/CD pipelines & optimized system uptime (99.9% availability)  
+- Automated backend tasks, reducing manual ops by 60%
 
-</div>
+---
 
-## 📫 Get in Touch
+## 📚 Education
 
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.2);">
+**M.S. Computer Science** (Online)  
+*Georgia Institute of Technology* — *Starting Spring 2026*
 
-Feel free to reach out to me through any of the platforms above. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+**B.S. Computer Science & Engineering**  
+*Habib University* (Partnered with Texas A&M) — *2020–2024*  
+- IEEE Published: *Security Analysis & Threat Mitigation for React.js*  
+- Winner of Academic Excellence Award  
+- Courses: Data Structures, Computer Vision, OOP, Web Dev, Databases
 
-</div>
+---
 
+## 🧪 Featured Projects
+
+- 🎨 [**Portfolio Website**](https://daniyal-murtaza.github.io/) — Clean portfolio to showcase all my work  
+- 🏥 [**Serve Foundation**](https://github.com/Daniyal-Murtaza/ServeFoundation) — A nonprofit management platform  
+- 🎮 [**Asteroids Point Zero**](https://github.com/Daniyal-Murtaza/asteroids-point-zero) — A modern twist on a classic  
+- 🐱‍👓 [**Goruto**](https://github.com/Daniyal-Murtaza/Goruto) — A unique game project  
+- 👻 [**Ghost Buster**](https://github.com/Daniyal-Murtaza/Ghost-Buster) — Arcade-style ghost shooter  
+- 🌍 [**Travel Website**](https://github.com/Daniyal-Murtaza/Travel-website) — Travel & booking platform  
+- ✈️ [**Flying Over ITT**](https://github.com/Daniyal-Murtaza/Flying-Over-itt) — Interactive simulation app
+
+---
+
+## 📫 Contact
+
+Want to collaborate, hire, or just chat tech?  
+📧 **Email:** [syeddaniyalmurtaza7@gmail.com](mailto:syeddaniyalmurtaza7@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/daniyal-murtaza-508a891b5](https://linkedin.com/in/daniyal-murtaza-508a891b5)
+
+---
+
+> *“Engineering software that matters.”*
+
+---
 
