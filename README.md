@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I’m a **Software Engineer** based in Houston, TX, with practical experience in **IT Support**, **Web App Development**, and **DevOps**. I hold a **B.S. in Computer Science** from **Habib University** and will begin my **M.S. in Computer Science** at **Georgia Tech** in Spring 2026.
+I’m a **Software Engineer** based in Houston, TX, with practical experience in **IT Support**, **Web App Development**, and **DevOps**. I hold a **B.S. in Computer Science** and will begin my **M.S. in Computer Science** at **Georgia Tech** in Spring 2026.
 
 My tech journey spans developing full-stack platforms, automating business processes, and supporting enterprise systems. I thrive on solving problems at scale — from building secure e-commerce platforms to optimizing system uptime in financial institutions.
 
